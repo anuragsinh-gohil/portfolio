@@ -1,108 +1,107 @@
-**Anuragsinh Jayendrasinh Gohil - Portfolio**
-Welcome to my portfolio! I am a passionate Full Stack Developer with expertise in Java, React, Django, PHP, and AWS. I specialize in building scalable and dynamic web applications that focus on user experience and performance.
+# **Anuragsinh Jayendrasinh Gohil - Portfolio**
 
-**About Me**
-I am currently pursuing a Master's in Computer Science at Rowan University, New Jersey, with a focus on web development, cloud computing, and data science. I bring over 4 years of hands-on experience in full-stack development, and I have developed various complex web applications using Java, React, Python, and PHP.
+Welcome to my portfolio! I am a passionate **Full Stack Developer** with expertise in **Java**, **React**, **Django**, **PHP**, and **AWS**. I specialize in building scalable and dynamic web applications that focus on user experience and performance.
 
-**Technical Skills**
-Java Technologies:
-Java, J2EE, Spring Boot, Spring MVC, Hibernate, Servlets, JSP, JDBC, Lombok, Thymeleaf
+## **About Me**
 
-JavaScript Technologies:
-JavaScript, TypeScript, React, Next.js, Angular, Backbone.js
+I am currently pursuing a **Master's in Computer Science** at **Rowan University**, New Jersey, with a focus on **web development**, **cloud computing**, and **data science**. I bring over **4 years of hands-on experience** in full-stack development, and I have developed various complex web applications using **Java**, **React**, **Python**, and **PHP**.
 
-Python Technologies:
-Python, Django, Flask
+## **Technical Skills**
 
-C# / .NET Technologies:
-C#, ASP.NET, ASP.NET MVC
+### **Java Technologies:**
+- **Java**, **J2EE**, **Spring Boot**, **Spring MVC**, **Hibernate**, **Servlets**, **JSP**, **JDBC**, **Lombok**, **Thymeleaf**
 
-PHP Technologies:
-PHP, WordPress, Custom Themes, ACF, WooCommerce, RESTful APIs
+### **JavaScript Technologies:**
+- **JavaScript**, **TypeScript**, **React**, **Next.js**, **Angular**, **Backbone.js**
 
-Databases:
-MySQL, MongoDB, SQL Server, PostgreSQL
+### **Python Technologies:**
+- **Python**, **Django**, **Flask**
 
-Tools & Technologies:
-Git, GitHub, Bitbucket, Postman, Visual Studio Code, IntelliJ IDEA, Eclipse
+### **C# / .NET Technologies:**
+- **C#**, **ASP.NET**, **ASP.NET MVC**
 
-Web Development:
-HTML, CSS, JSON, AJAX, jQuery, Responsive Web Design, Payment Gateway Integration
+### **PHP Technologies:**
+- **PHP**, **WordPress**, **Custom Themes**, **ACF**, **WooCommerce**, **RESTful APIs**
 
-Operating Systems:
-Windows, Linux, macOS
+### **Databases:**
+- **MySQL**, **MongoDB**, **SQL Server**, **PostgreSQL**
 
-Soft Skills:
-Adaptability, Problem Solving, Teamwork, Analytical Thinking
+### **Tools & Technologies:**
+- **Git**, **GitHub**, **Bitbucket**, **Postman**, **Visual Studio Code**, **IntelliJ IDEA**, **Eclipse**
 
-**Education**
-Master’s in Computer Science (Anticipated May 2025)
-Rowan University | Glassboro, NJ, USA
+### **Web Development:**
+- **HTML**, **CSS**, **JSON**, **AJAX**, **jQuery**, **Responsive Web Design**, **Payment Gateway Integration**
 
-Bachelor’s in Computer Engineering (Graduated July 2019)
-Gujarat Technological University | Vadodara, Gujarat, India | GPA: 3.87
+### **Operating Systems:**
+- **Windows**, **Linux**, **macOS**
 
-**Certifications**
-Diploma in Django Full Stack Web Development
+### **Soft Skills:**
+- **Adaptability**, **Problem Solving**, **Teamwork**, **Analytical Thinking**
 
-Core Java Skills – Udemy
+## **Education**
 
-React Full Stack Development – Udemy
+- **Master’s in Computer Science** (Anticipated May 2025)  
+  **Rowan University** | **Glassboro, NJ**, USA
+- **Bachelor’s in Computer Engineering** (Graduated July 2019)  
+  **Gujarat Technological University** | **Vadodara, Gujarat**, India | GPA: **3.87**
 
-AZ-900: Microsoft Azure Fundamentals – CloudLabs Portal
+## **Certifications**
 
-**Experience**
-**Akshar Softweb Pvt. Ltd, India**
-Full Stack Developer
-July 2020 – Aug 2023
+- **Diploma in Django Full Stack Web Development**
+- **Core Java Skills – Udemy**
+- **React Full Stack Development – Udemy**
+- **AZ-900: Microsoft Azure Fundamentals – CloudLabs Portal**
 
-Developed RESTful APIs and microservices using Spring Boot and PHP.
+## **Experience**
 
-Created dynamic, responsive web applications using React and Redux, improving user engagement by 30%.
+### **Akshar Softweb Pvt. Ltd, India**  
+**Full Stack Developer**  
+**July 2020 – Aug 2023**
 
-Integrated WordPress with custom PHP logic, optimizing website performance and adding e-commerce features.
+- Developed **RESTful APIs** and **microservices** using **Spring Boot** and **PHP**.
+- Created dynamic, responsive web applications using **React** and **Redux**, improving user engagement by **30%**.
+- Integrated **WordPress** with custom **PHP** logic, optimizing website performance and adding e-commerce features.
 
-**GuruSchools LLC, India**
-Java Developer (Contract)
-July 2019 – July 2020
+### **GuruSchools LLC, India**  
+**Java Developer (Contract)**  
+**July 2019 – July 2020**
 
-Designed and developed Java-based applications using Spring Boot, Hibernate, and J2EE.
+- Designed and developed **Java-based** applications using **Spring Boot**, **Hibernate**, and **J2EE**.
+- Integrated **RESTful APIs** with databases (**MySQL**, **SQL Server**) for seamless application functionality.
 
-Integrated RESTful APIs with databases (MySQL, SQL Server) for seamless application functionality.
+## **Selected Projects**
 
-**Selected Projects**
-Crypto Dashboard with React and Coin Gecko API
-A full-stack React website that integrates the Coin Gecko API to display real-time cryptocurrency data.
-Tech Stack: React JS, Coin Gecko API
+### **Crypto Dashboard with React and Coin Gecko API**  
+A full-stack **React** website that integrates the **Coin Gecko API** to display real-time cryptocurrency data.  
+**Tech Stack**: **React JS**, **Coin Gecko API**  
 
-Task Tracker Web Application
-Developed a task management system with CRUD operations using Spring Boot, Thymeleaf, and Bootstrap.
-Tech Stack: Spring Boot, Thymeleaf, Bootstrap
+### **Task Tracker Web Application**  
+Developed a task management system with **CRUD** operations using **Spring Boot**, **Thymeleaf**, and **Bootstrap**.  
+**Tech Stack**: **Spring Boot**, **Thymeleaf**, **Bootstrap**  
 
-Matrimonial Website
-Created a platform for matrimonial profiles with features like search and messaging.
-Tech Stack: Django, Python, Bootstrap
+### **Matrimonial Website**  
+Created a platform for matrimonial profiles with features like search and messaging.  
+**Tech Stack**: **Django**, **Python**, **Bootstrap**  
 
-Weather App
-Developed a web app that tracks user expenses, with features for data visualization and statistical calculations.
-Tech Stack: JavaScript, Chart.js, HTML, CSS
+### **Weather App**  
+Developed a web app that tracks user expenses, with features for data visualization and statistical calculations.  
+**Tech Stack**: **JavaScript**, **Chart.js**, **HTML**, **CSS**  
 
-Employee Management System
-Built a multi-client real-time chat application using Django Channels and WebSockets for asynchronous communication.
-Tech Stack: Django Channels, WebSockets
+### **Employee Management System**  
+Built a multi-client **real-time chat application** using **Django Channels** and **WebSockets** for asynchronous communication.  
+**Tech Stack**: **Django Channels**, **WebSockets**  
 
-**Publications**
-Detection and Classification of Leaf Disease Using Machine Learning
-Contributed to a project using machine learning to detect plant leaf diseases. Published in the International Journal of Generation Communication and Networking.
+## **Publications**
 
-A Survey on Leaf Disease Detection and Classification
-Contributed to a survey paper on leaf disease detection methods, focusing on image processing and machine learning. Published in the International Journal of Research in Electronics and Computer Engineering.
+- **Detection and Classification of Leaf Disease Using Machine Learning**  
+  Contributed to a project using **machine learning** to detect plant leaf diseases. Published in the *International Journal of Generation Communication and Networking*.
 
-Contact
-Feel free to reach out to me for collaboration or any opportunities:
+- **A Survey on Leaf Disease Detection and Classification**  
+  Contributed to a survey paper on **leaf disease detection** methods, focusing on **image processing** and **machine learning**. Published in the *International Journal of Research in Electronics and Computer Engineering*.
 
-LinkedIn: Anuragsinh Gohil
+## **Contact**
 
-GitHub: AnuragsinhGohil
-
-Email: anuragsinh.gohil98@gmail.com
+Feel free to reach out to me for collaboration or any opportunities:  
+- **LinkedIn**: [Anuragsinh Gohil](https://www.linkedin.com/in/anuragsinh-gohil)  
+- **GitHub**: [AnuragsinhGohil](https://github.com/AnuragsinhGohil)  
+- **Email**: anuragsinh.gohil98@gmail.com
